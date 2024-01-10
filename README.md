@@ -7,7 +7,7 @@ Online demo: https://nerfforangiography.netlify.app/ (due to utilizing free serv
 Warning: This code may contain bugs and is not fully optimized.
 
 ## Overview
-
+The visualization tool code can be found in /cag-vis folder. This can be ran with npm. The code to obtain the .csv/images to load in the tool can be found in the /analysis folder.
 
 ## Citation
 If you use this code for your research, please consider citing:
@@ -21,6 +21,3 @@ If you use this code for your research, please consider citing:
   organization={Eurographics Association}
 }
 ```
-
-## License
-*NeRF for 3D reconstruction from X-ray angiography* is published under the BSD 3-Clause License, as found in the LICENSE file.
