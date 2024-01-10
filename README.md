@@ -4,6 +4,8 @@ Code for the *NeRF for 3D Reconstruction from X-ray Angiography*, which is descr
 
 Online demo: https://nerfforangiography.netlify.app/ (due to utilizing free services, there is a delay when hovering over the heatmap).
 
+Warning: This code may contain bugs and is not fully optimized.
+
 ## Overview
 
 
